@@ -1,6 +1,6 @@
 image:
-  repository: telegrammae/webhook
-  tag: v0.1.3
+  repository: maxsokolovsky/webhook
+  tag: v0.2.5
   imagePullPolicy: IfNotPresent
 
 global:
